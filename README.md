@@ -1,3 +1,3 @@
 - 👋 Hello world, I’m @aissa-dev1
-- Full Stack Web Developer
+- Full Stack Engineer
 - I love Solid js & TypeScript
