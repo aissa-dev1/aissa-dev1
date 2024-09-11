@@ -1,3 +1,5 @@
 - 👋 Hello world, I’m @aissa-dev1
 - Full Stack Engineer
+- <Mobile App Developer />
+- 2D Game Developer
 - I love Solid js & TypeScript
