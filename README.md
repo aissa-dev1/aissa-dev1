@@ -1,7 +1,7 @@
 <h1 align="center">Full Stack Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=450&lines=I+am+Aissa+Bedr;Full+Stack+Developer;I+%E2%9D%A4+Solid.js+%26+TypeScript" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=450&lines=I+am+Aissa+Bedr;I+%E2%9D%A4+Solid.js+%26+TypeScript" />
 </p>
 
 ---
