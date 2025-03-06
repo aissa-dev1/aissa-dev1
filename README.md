@@ -12,4 +12,11 @@
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?logo=vercel&logoColor=white)](https://aissabedr.vercel.app)
+<p align="center">
+  <a href="https://aissabedr.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-121212?logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/aissa-dev1">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
