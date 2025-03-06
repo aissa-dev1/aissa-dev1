@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <a href="https://aissabedr.vercel.app">
+  <a href="https://aissabedr.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-121212?logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/aissa-dev1">
