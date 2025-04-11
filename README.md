@@ -16,7 +16,7 @@
   <a href="https://aissabedr.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-121212?logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/aissa-dev1">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/aissa-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
