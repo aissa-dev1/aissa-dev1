@@ -7,12 +7,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aissa-dev1&show_icons=true&theme=radical" height="180"/>
-</p>
-
----
-
-<p align="center">
   <a href="https://aissabedr.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-121212?logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
